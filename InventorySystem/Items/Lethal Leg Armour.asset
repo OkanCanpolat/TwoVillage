@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df70bb89cb9ecf94ab4c24050d52eda2, type: 3}
+  m_Name: Lethal Leg Armour
+  m_EditorClassIdentifier: 
+  ItemType: 2
+  Price: 40
+  ItemName: Lethal Leg Armour
+  Sprite: {fileID: 21300000, guid: 7db8fd81c3f97574c84b5d9272f121ca, type: 3}
+  Description: 'Better than cloth
+
+
+    Armour:  50
+
+    Health:  30'
+  Stackable: 0
+  Amount: 0
+  type: 2
+  itemIndex: 11
+  nakedPartIndex: 17
+  healthBonus: 30
+  armourBonus: 50

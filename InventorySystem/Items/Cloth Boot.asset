@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 902d72a3366df244eb9430f0e7040db5, type: 3}
+  m_Name: Cloth Boot
+  m_EditorClassIdentifier: 
+  ItemType: 2
+  Price: 10
+  ItemName: Cloth Boot
+  Sprite: {fileID: 21300000, guid: d6c839f9994c5ea41a3572580c67271e, type: 3}
+  Description: 'Be carefull when wearing this
+
+
+    Movement Speed:  2'
+  Stackable: 0
+  Amount: 0
+  type: 3
+  itemIndex: 13
+  nakedPartIndex: 16
+  movementSpeedBonus: 2

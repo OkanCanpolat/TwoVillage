@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0db5714beec4c040b0c0c192dd6c3a2, type: 3}
+  m_Name: CollectWood
+  m_EditorClassIdentifier: 
+  IsFinished: 0
+  Title: 
+  Description: Collect  woods in the forest
+  DynamicDescription: 0 / 5
+  HasDynamicDescription: 0
+  WorldX: -92
+  WorldZ: 14
+  requiredAmount: 5
+  currentAmount: 0
+  woodPrefab: {fileID: 4788396277310462853, guid: ee56610327d88bf449647834b0a534e3,
+    type: 3}
+  maxXSpawnDistance: 5.96
+  maxZSpawnDistance: 5.01

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 470cc3d0af849544dbf9b7e105e537ab, type: 3}
+  m_Name: Kill Skeleton
+  m_EditorClassIdentifier: 
+  IsFinished: 1
+  Title: 
+  Description: Adam says there's an evil wandering in the woods. Killing skeletons
+    might be finish this evil
+  DynamicDescription: 5 / 5
+  HasDynamicDescription: 1
+  WorldX: -15
+  WorldZ: 65
+  requiredAmount: 5
+  currentAmount: 5

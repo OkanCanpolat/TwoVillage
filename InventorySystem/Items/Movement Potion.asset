@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b75ce72cc14f5e40b998b959500f9e0, type: 3}
+  m_Name: Movement Potion
+  m_EditorClassIdentifier: 
+  ItemType: 0
+  Price: 20
+  ItemName: Movement Speed Potion
+  Sprite: {fileID: 21300000, guid: f260ba702fde94584ae55b8a0a0aba71, type: 3}
+  Description: Increase movement speed 1 for  60 seconds
+  Stackable: 1
+  Amount: 0
+  movementSpeedBonus: 1
+  buffDuration: 60
+  buffIconDescription: Your movement  speed increased 1
+  useable: 1
